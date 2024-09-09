@@ -33,3 +33,7 @@
 ## Caution
 
 This is a simple model and does not have advanced error handling. It also does not address all edge cases. See this as a basic example or prototype.
+
+## Limitations
+
+- **Viewport Specific Design**: The web app has been designed for the developer's browser viewport size of `1287x590`. It does not currently adapt to different screen sizes or devices, meaning it may not display correctly on smaller or larger screens.
